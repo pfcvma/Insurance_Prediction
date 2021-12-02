@@ -1,0 +1,492 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<title>가격정보 - 친환경농산물 - 품목별 엑셀 출력</title>
+	<meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=utf-8">
+	<style type="text/css">
+		table caption	{ text-align:left; }
+		table th		{ background-color:#eff2f9; }
+		table td		{ mso-number-format:\@; text-align:general; vertical-align:middle; text-align:center; white-space:nowrap; mso-rotate:0; mso-background-source:auto; mso-pattern:auto; color:black; font-size:11.0pt; font-style:normal; text-decoration:none; font-family:"맑은 고딕", monospace; mso-font-charset:129; border:1px; mso-protection:locked visible; mso-style-name:표준; mso-style-id:0; }
+		table td.c		{ text-align:center;}
+		table td.l		{ text-align:left; }
+		table td.r		{ text-align:right; }
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td	class="data">
+				<table id="data" border="1px">
+					
+					<caption></caption>
+					<colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col>
+					
+					
+						</colgroup><tbody><tr>
+							<th class="first" scope="col">구분</th>
+							
+								<th scope="col">1월</th>
+							
+								<th scope="col">2월</th>
+							
+								<th scope="col">3월</th>
+							
+								<th scope="col">4월</th>
+							
+								<th scope="col">5월</th>
+							
+								<th scope="col">6월</th>
+							
+								<th scope="col">7월</th>
+							
+								<th scope="col">8월</th>
+							
+								<th scope="col">9월</th>
+							
+								<th scope="col">10월</th>
+							
+								<th scope="col">11월</th>
+							
+								<th scope="col">12월</th>
+							
+							<th class="last" scope="col">연평균</th>
+						</tr>
+	
+						
+						<tr>
+							<td class="first cell_tit1">1996</td>
+							<td>31,860</td>
+							<td>34,767</td>
+							<td>37,136</td>
+							<td>36,950</td>
+							<td>38,203</td>
+							<td>40,437</td>
+							<td>46,561</td>
+							<td>51,831</td>
+							<td>45,605</td>
+							<td>37,717</td>
+							<td>34,530</td>
+							<td>38,776</td>
+							<td class="last">39,481</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">1997</td>
+							<td>41,377</td>
+							<td>45,685</td>
+							<td>48,043</td>
+							<td>48,351</td>
+							<td>50,590</td>
+							<td>51,694</td>
+							<td>49,874</td>
+							<td>49,642</td>
+							<td>45,687</td>
+							<td>31,327</td>
+							<td>32,897</td>
+							<td>34,540</td>
+							<td class="last">44,045</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">1998</td>
+							<td>34,451</td>
+							<td>32,631</td>
+							<td>32,545</td>
+							<td>35,661</td>
+							<td>39,097</td>
+							<td>39,295</td>
+							<td>38,965</td>
+							<td>36,745</td>
+							<td>33,769</td>
+							<td>28,560</td>
+							<td>28,317</td>
+							<td>31,173</td>
+							<td class="last">34,227</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">1999</td>
+							<td>34,435</td>
+							<td>46,410</td>
+							<td>55,160</td>
+							<td>57,817</td>
+							<td>58,757</td>
+							<td>65,100</td>
+							<td>74,792</td>
+							<td>76,054</td>
+							<td>56,626</td>
+							<td>28,246</td>
+							<td>25,969</td>
+							<td>28,985</td>
+							<td class="last">50,646</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2000</td>
+							<td>30,768</td>
+							<td>30,748</td>
+							<td>29,123</td>
+							<td>29,235</td>
+							<td>26,042</td>
+							<td>24,296</td>
+							<td>24,350</td>
+							<td>25,877</td>
+							<td>33,043</td>
+							<td>20,375</td>
+							<td>19,377</td>
+							<td>21,688</td>
+							<td class="last">26,159</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2001</td>
+							<td>22,835</td>
+							<td>27,800</td>
+							<td>34,723</td>
+							<td>42,392</td>
+							<td>40,650</td>
+							<td>40,560</td>
+							<td>45,880</td>
+							<td>41,807</td>
+							<td>37,371</td>
+							<td>23,883</td>
+							<td>20,977</td>
+							<td>26,184</td>
+							<td class="last">33,796</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2002</td>
+							<td>29,477</td>
+							<td>35,000</td>
+							<td>33,880</td>
+							<td>33,440</td>
+							<td>33,632</td>
+							<td>32,322</td>
+							<td>31,448</td>
+							<td>30,177</td>
+							<td>33,905</td>
+							<td>23,223</td>
+							<td>23,569</td>
+							<td>24,492</td>
+							<td class="last">30,199</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2003</td>
+							<td>25,544</td>
+							<td>24,165</td>
+							<td>22,728</td>
+							<td>22,192</td>
+							<td>22,917</td>
+							<td>25,375</td>
+							<td>26,877</td>
+							<td>27,446</td>
+							<td>36,600</td>
+							<td>28,677</td>
+							<td>34,112</td>
+							<td>37,446</td>
+							<td class="last">27,834</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2004</td>
+							<td>40,174</td>
+							<td>40,058</td>
+							<td>42,038</td>
+							<td>45,467</td>
+							<td>55,517</td>
+							<td>68,308</td>
+							<td>73,745</td>
+							<td>72,591</td>
+							<td>50,968</td>
+							<td>27,762</td>
+							<td>28,045</td>
+							<td>30,550</td>
+							<td class="last">48,355</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2005</td>
+							<td>32,429</td>
+							<td>33,729</td>
+							<td>36,264</td>
+							<td>39,857</td>
+							<td>40,382</td>
+							<td>41,200</td>
+							<td>43,027</td>
+							<td>42,775</td>
+							<td>40,264</td>
+							<td>24,086</td>
+							<td>21,591</td>
+							<td>24,700</td>
+							<td class="last">35,068</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2006</td>
+							<td>26,209</td>
+							<td>25,450</td>
+							<td>23,655</td>
+							<td>22,340</td>
+							<td>21,990</td>
+							<td>23,410</td>
+							<td>23,110</td>
+							<td>20,380</td>
+							<td>28,112</td>
+							<td>25,821</td>
+							<td>25,962</td>
+							<td>32,100</td>
+							<td class="last">24,742</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2007</td>
+							<td>35,064</td>
+							<td>43,242</td>
+							<td>45,743</td>
+							<td>47,371</td>
+							<td>48,952</td>
+							<td>51,770</td>
+							<td>58,857</td>
+							<td>60,963</td>
+							<td>33,750</td>
+							<td>22,827</td>
+							<td>21,064</td>
+							<td>23,326</td>
+							<td class="last">40,606</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2008</td>
+							<td>23,573</td>
+							<td>23,289</td>
+							<td>24,295</td>
+							<td>23,857</td>
+							<td>25,526</td>
+							<td>30,810</td>
+							<td>35,000</td>
+							<td>28,563</td>
+							<td>24,063</td>
+							<td>17,791</td>
+							<td>21,110</td>
+							<td>24,286</td>
+							<td class="last">25,220</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2009</td>
+							<td>28,526</td>
+							<td>28,250</td>
+							<td>29,673</td>
+							<td>33,609</td>
+							<td>37,811</td>
+							<td>44,291</td>
+							<td>49,887</td>
+							<td>48,031</td>
+							<td>25,646</td>
+							<td>24,238</td>
+							<td>25,352</td>
+							<td>27,095</td>
+							<td class="last">33,808</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2010</td>
+							<td>28,980</td>
+							<td>36,442</td>
+							<td>35,345</td>
+							<td>33,936</td>
+							<td>33,632</td>
+							<td>34,686</td>
+							<td>34,036</td>
+							<td>30,009</td>
+							<td>36,516</td>
+							<td>34,581</td>
+							<td>38,155</td>
+							<td>43,270</td>
+							<td class="last">35,029</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2011</td>
+							<td>45,429</td>
+							<td>50,153</td>
+							<td>48,984</td>
+							<td>46,246</td>
+							<td>48,206</td>
+							<td>60,419</td>
+							<td>80,857</td>
+							<td>85,796</td>
+							<td>38,853</td>
+							<td>34,590</td>
+							<td>38,318</td>
+							<td>41,352</td>
+							<td class="last">50,951</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2012</td>
+							<td>44,550</td>
+							<td>43,257</td>
+							<td>44,343</td>
+							<td>43,600</td>
+							<td>46,838</td>
+							<td>50,980</td>
+							<td>56,282</td>
+							<td>57,600</td>
+							<td>60,130</td>
+							<td>64,733</td>
+							<td>65,482</td>
+							<td>65,674</td>
+							<td class="last">53,661</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2013</td>
+							<td>65,273</td>
+							<td>72,032</td>
+							<td>71,990</td>
+							<td>68,973</td>
+							<td>67,162</td>
+							<td>63,653</td>
+							<td>60,452</td>
+							<td>48,838</td>
+							<td>49,256</td>
+							<td>34,067</td>
+							<td>39,400</td>
+							<td>41,095</td>
+							<td class="last">56,815</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2014</td>
+							<td>46,610</td>
+							<td>47,090</td>
+							<td>44,733</td>
+							<td>45,127</td>
+							<td>49,484</td>
+							<td>59,411</td>
+							<td>80,235</td>
+							<td>78,000</td>
+							<td>38,833</td>
+							<td>28,390</td>
+							<td>30,230</td>
+							<td>33,800</td>
+							<td class="last">48,610</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2015</td>
+							<td>35,181</td>
+							<td>36,200</td>
+							<td>39,091</td>
+							<td>40,300</td>
+							<td>40,900</td>
+							<td>40,145</td>
+							<td>39,600</td>
+							<td>35,550</td>
+							<td>36,950</td>
+							<td>39,619</td>
+							<td>40,971</td>
+							<td>43,600</td>
+							<td class="last">39,069</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2016</td>
+							<td>44,170</td>
+							<td>45,800</td>
+							<td>44,455</td>
+							<td>44,000</td>
+							<td>44,280</td>
+							<td>45,257</td>
+							<td>50,343</td>
+							<td>55,164</td>
+							<td>46,232</td>
+							<td>36,060</td>
+							<td>35,745</td>
+							<td>37,971</td>
+							<td class="last">44,130</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2017</td>
+							<td>39,800</td>
+							<td>39,580</td>
+							<td>40,964</td>
+							<td>41,870</td>
+							<td>44,400</td>
+							<td>49,371</td>
+							<td>57,724</td>
+							<td>56,045</td>
+							<td>45,683</td>
+							<td>38,100</td>
+							<td>33,864</td>
+							<td>33,516</td>
+							<td class="last">43,553</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2018</td>
+							<td>35,364</td>
+							<td>39,111</td>
+							<td>39,038</td>
+							<td>38,238</td>
+							<td>36,250</td>
+							<td>37,242</td>
+							<td>35,109</td>
+							<td>35,036</td>
+							<td>47,506</td>
+							<td>38,390</td>
+							<td>43,091</td>
+							<td>47,211</td>
+							<td class="last">39,096</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2019</td>
+							<td>51,827</td>
+							<td>50,612</td>
+							<td>50,920</td>
+							<td>49,973</td>
+							<td>53,010</td>
+							<td>57,884</td>
+							<td>66,026</td>
+							<td>73,067</td>
+							<td>40,011</td>
+							<td>35,705</td>
+							<td>40,857</td>
+							<td>43,930</td>
+							<td class="last">51,257</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2020</td>
+							<td>43,425</td>
+							<td>45,078</td>
+							<td>45,248</td>
+							<td>47,330</td>
+							<td>54,905</td>
+							<td>56,513</td>
+							<td>57,691</td>
+							<td>56,568</td>
+							<td>64,793</td>
+							<td>63,741</td>
+							<td>65,381</td>
+							<td>70,990</td>
+							<td class="last">55,797</td>
+						</tr>
+						
+					
+					
+				</tbody>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

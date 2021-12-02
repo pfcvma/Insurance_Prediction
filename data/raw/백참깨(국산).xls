@@ -1,0 +1,492 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<title>가격정보 - 친환경농산물 - 품목별 엑셀 출력</title>
+	<meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=utf-8">
+	<style type="text/css">
+		table caption	{ text-align:left; }
+		table th		{ background-color:#eff2f9; }
+		table td		{ mso-number-format:\@; text-align:general; vertical-align:middle; text-align:center; white-space:nowrap; mso-rotate:0; mso-background-source:auto; mso-pattern:auto; color:black; font-size:11.0pt; font-style:normal; text-decoration:none; font-family:"맑은 고딕", monospace; mso-font-charset:129; border:1px; mso-protection:locked visible; mso-style-name:표준; mso-style-id:0; }
+		table td.c		{ text-align:center;}
+		table td.l		{ text-align:left; }
+		table td.r		{ text-align:right; }
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td	class="data">
+				<table id="data" border="1px">
+					
+					<caption></caption>
+					<colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col>
+					
+					
+						</colgroup><tbody><tr>
+							<th class="first" scope="col">구분</th>
+							
+								<th scope="col">1월</th>
+							
+								<th scope="col">2월</th>
+							
+								<th scope="col">3월</th>
+							
+								<th scope="col">4월</th>
+							
+								<th scope="col">5월</th>
+							
+								<th scope="col">6월</th>
+							
+								<th scope="col">7월</th>
+							
+								<th scope="col">8월</th>
+							
+								<th scope="col">9월</th>
+							
+								<th scope="col">10월</th>
+							
+								<th scope="col">11월</th>
+							
+								<th scope="col">12월</th>
+							
+							<th class="last" scope="col">연평균</th>
+						</tr>
+	
+						
+						<tr>
+							<td class="first cell_tit1">1996</td>
+							<td>312,690</td>
+							<td>311,828</td>
+							<td>311,879</td>
+							<td>312,023</td>
+							<td>311,587</td>
+							<td>311,540</td>
+							<td>311,283</td>
+							<td>311,301</td>
+							<td>313,001</td>
+							<td>314,464</td>
+							<td>313,798</td>
+							<td>314,449</td>
+							<td class="last">312,547</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">1997</td>
+							<td>317,029</td>
+							<td>325,446</td>
+							<td>331,550</td>
+							<td>339,793</td>
+							<td>344,576</td>
+							<td>344,323</td>
+							<td>346,964</td>
+							<td>346,507</td>
+							<td>340,373</td>
+							<td>340,646</td>
+							<td>340,664</td>
+							<td>341,221</td>
+							<td class="last">338,369</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">1998</td>
+							<td>342,050</td>
+							<td>342,404</td>
+							<td>340,824</td>
+							<td>341,249</td>
+							<td>341,654</td>
+							<td>341,257</td>
+							<td>339,870</td>
+							<td>337,492</td>
+							<td>339,843</td>
+							<td>344,079</td>
+							<td>345,164</td>
+							<td>345,261</td>
+							<td class="last">341,775</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">1999</td>
+							<td>344,739</td>
+							<td>345,000</td>
+							<td>345,000</td>
+							<td>345,000</td>
+							<td>345,000</td>
+							<td>345,000</td>
+							<td>343,720</td>
+							<td>342,000</td>
+							<td>345,478</td>
+							<td>352,308</td>
+							<td>353,038</td>
+							<td>349,000</td>
+							<td class="last">346,354</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2000</td>
+							<td>349,080</td>
+							<td>351,000</td>
+							<td>351,000</td>
+							<td>351,000</td>
+							<td>351,750</td>
+							<td>354,000</td>
+							<td>354,750</td>
+							<td>349,923</td>
+							<td>338,261</td>
+							<td>334,896</td>
+							<td>333,808</td>
+							<td>332,840</td>
+							<td class="last">345,988</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2001</td>
+							<td>331,500</td>
+							<td>331,500</td>
+							<td>331,500</td>
+							<td>331,500</td>
+							<td>329,958</td>
+							<td>329,500</td>
+							<td>329,500</td>
+							<td>329,500</td>
+							<td>329,500</td>
+							<td>329,500</td>
+							<td>329,500</td>
+							<td>328,620</td>
+							<td class="last">330,114</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2002</td>
+							<td>326,000</td>
+							<td>326,000</td>
+							<td>326,000</td>
+							<td>326,000</td>
+							<td>325,840</td>
+							<td>324,000</td>
+							<td>324,880</td>
+							<td>323,308</td>
+							<td>324,870</td>
+							<td>337,154</td>
+							<td>354,615</td>
+							<td>389,250</td>
+							<td class="last">334,061</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2003</td>
+							<td>415,000</td>
+							<td>439,391</td>
+							<td>448,720</td>
+							<td>448,200</td>
+							<td>446,000</td>
+							<td>438,917</td>
+							<td>438,654</td>
+							<td>444,858</td>
+							<td>497,750</td>
+							<td>595,346</td>
+							<td>617,440</td>
+							<td>632,077</td>
+							<td class="last">489,633</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2004</td>
+							<td>636,783</td>
+							<td>637,583</td>
+							<td>636,577</td>
+							<td>642,375</td>
+							<td>632,917</td>
+							<td>601,115</td>
+							<td>540,545</td>
+							<td>491,348</td>
+							<td>429,211</td>
+							<td>415,095</td>
+							<td>415,636</td>
+							<td>438,800</td>
+							<td class="last">550,073</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2005</td>
+							<td>456,238</td>
+							<td>459,294</td>
+							<td>460,000</td>
+							<td>460,000</td>
+							<td>460,000</td>
+							<td>458,000</td>
+							<td>453,727</td>
+							<td>409,000</td>
+							<td>388,273</td>
+							<td>375,714</td>
+							<td>378,261</td>
+							<td>379,091</td>
+							<td class="last">427,043</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2006</td>
+							<td>378,000</td>
+							<td>370,600</td>
+							<td>361,091</td>
+							<td>354,138</td>
+							<td>349,500</td>
+							<td>347,000</td>
+							<td>347,300</td>
+							<td>348,091</td>
+							<td>363,864</td>
+							<td>418,158</td>
+							<td>416,000</td>
+							<td>417,900</td>
+							<td class="last">372,208</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2007</td>
+							<td>424,500</td>
+							<td>439,579</td>
+							<td>442,571</td>
+							<td>452,333</td>
+							<td>462,000</td>
+							<td>467,750</td>
+							<td>467,048</td>
+							<td>459,773</td>
+							<td>449,412</td>
+							<td>449,318</td>
+							<td>465,955</td>
+							<td>480,053</td>
+							<td class="last">454,903</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2008</td>
+							<td>503,591</td>
+							<td>529,778</td>
+							<td>533,000</td>
+							<td>532,714</td>
+							<td>525,316</td>
+							<td>515,000</td>
+							<td>511,304</td>
+							<td>495,050</td>
+							<td>426,524</td>
+							<td>400,636</td>
+							<td>398,000</td>
+							<td>398,000</td>
+							<td class="last">479,944</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2009</td>
+							<td>399,158</td>
+							<td>403,000</td>
+							<td>403,591</td>
+							<td>400,455</td>
+							<td>401,316</td>
+							<td>403,000</td>
+							<td>403,000</td>
+							<td>403,000</td>
+							<td>407,364</td>
+							<td>414,952</td>
+							<td>421,524</td>
+							<td>444,238</td>
+							<td class="last">408,747</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2010</td>
+							<td>469,750</td>
+							<td>481,974</td>
+							<td>495,045</td>
+							<td>498,545</td>
+							<td>496,000</td>
+							<td>496,000</td>
+							<td>496,545</td>
+							<td>492,591</td>
+							<td>489,737</td>
+							<td>499,524</td>
+							<td>558,727</td>
+							<td>608,087</td>
+							<td class="last">508,276</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2011</td>
+							<td>611,905</td>
+							<td>612,000</td>
+							<td>605,015</td>
+							<td>600,809</td>
+							<td>582,550</td>
+							<td>560,000</td>
+							<td>550,714</td>
+							<td>544,000</td>
+							<td>578,700</td>
+							<td>580,000</td>
+							<td>569,727</td>
+							<td>566,000</td>
+							<td class="last">579,513</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2012</td>
+							<td>570,600</td>
+							<td>578,524</td>
+							<td>590,429</td>
+							<td>591,000</td>
+							<td>591,000</td>
+							<td>591,000</td>
+							<td>591,000</td>
+							<td>588,045</td>
+							<td>578,500</td>
+							<td>581,000</td>
+							<td>581,000</td>
+							<td>581,000</td>
+							<td class="last">584,506</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2013</td>
+							<td>581,000</td>
+							<td>581,000</td>
+							<td>581,700</td>
+							<td>586,250</td>
+							<td>588,000</td>
+							<td>587,000</td>
+							<td>586,826</td>
+							<td>583,619</td>
+							<td>573,889</td>
+							<td>543,238</td>
+							<td>510,143</td>
+							<td>526,857</td>
+							<td class="last">569,038</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2014</td>
+							<td>534,000</td>
+							<td>534,000</td>
+							<td>534,000</td>
+							<td>534,000</td>
+							<td>534,000</td>
+							<td>534,000</td>
+							<td>532,696</td>
+							<td>530,842</td>
+							<td>524,111</td>
+							<td>521,905</td>
+							<td>511,800</td>
+							<td>514,000</td>
+							<td class="last">528,296</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2015</td>
+							<td>519,714</td>
+							<td>527,765</td>
+							<td>528,000</td>
+							<td>531,091</td>
+							<td>532,000</td>
+							<td>532,000</td>
+							<td>532,000</td>
+							<td>531,500</td>
+							<td>530,000</td>
+							<td>530,000</td>
+							<td>532,095</td>
+							<td>531,619</td>
+							<td class="last">529,839</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2016</td>
+							<td>529,000</td>
+							<td>529,000</td>
+							<td>529,000</td>
+							<td>529,000</td>
+							<td>526,100</td>
+							<td>532,571</td>
+							<td>536,857</td>
+							<td>546,000</td>
+							<td>536,632</td>
+							<td>521,780</td>
+							<td>512,509</td>
+							<td>521,219</td>
+							<td class="last">529,124</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2017</td>
+							<td>523,000</td>
+							<td>520,200</td>
+							<td>519,000</td>
+							<td>519,000</td>
+							<td>519,000</td>
+							<td>521,000</td>
+							<td>520,543</td>
+							<td>516,782</td>
+							<td>516,410</td>
+							<td>506,350</td>
+							<td>498,182</td>
+							<td>498,842</td>
+							<td class="last">515,016</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2018</td>
+							<td>499,000</td>
+							<td>499,000</td>
+							<td>497,476</td>
+							<td>498,000</td>
+							<td>498,000</td>
+							<td>498,347</td>
+							<td>498,055</td>
+							<td>498,009</td>
+							<td>496,424</td>
+							<td>498,305</td>
+							<td>495,209</td>
+							<td>496,137</td>
+							<td class="last">497,671</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2019</td>
+							<td>496,500</td>
+							<td>496,200</td>
+							<td>496,200</td>
+							<td>496,336</td>
+							<td>499,200</td>
+							<td>498,789</td>
+							<td>500,513</td>
+							<td>502,314</td>
+							<td>502,274</td>
+							<td>493,676</td>
+							<td>493,048</td>
+							<td>487,200</td>
+							<td class="last">496,873</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2020</td>
+							<td>482,000</td>
+							<td>483,608</td>
+							<td>491,670</td>
+							<td>500,220</td>
+							<td>513,011</td>
+							<td>516,573</td>
+							<td>522,504</td>
+							<td>545,670</td>
+							<td>662,029</td>
+							<td>766,579</td>
+							<td>831,524</td>
+							<td>884,571</td>
+							<td class="last">599,523</td>
+						</tr>
+						
+					
+					
+				</tbody>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

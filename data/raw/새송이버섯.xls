@@ -1,0 +1,237 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<title>가격정보 - 친환경농산물 - 품목별 엑셀 출력</title>
+	<meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=utf-8">
+	<style type="text/css">
+		table caption	{ text-align:left; }
+		table th		{ background-color:#eff2f9; }
+		table td		{ mso-number-format:\@; text-align:general; vertical-align:middle; text-align:center; white-space:nowrap; mso-rotate:0; mso-background-source:auto; mso-pattern:auto; color:black; font-size:11.0pt; font-style:normal; text-decoration:none; font-family:"맑은 고딕", monospace; mso-font-charset:129; border:1px; mso-protection:locked visible; mso-style-name:표준; mso-style-id:0; }
+		table td.c		{ text-align:center;}
+		table td.l		{ text-align:left; }
+		table td.r		{ text-align:right; }
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td	class="data">
+				<table id="data" border="1px">
+					
+					<caption></caption>
+					<colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col>
+					
+					
+						</colgroup><tbody><tr>
+							<th class="first" scope="col">구분</th>
+							
+								<th scope="col">1월</th>
+							
+								<th scope="col">2월</th>
+							
+								<th scope="col">3월</th>
+							
+								<th scope="col">4월</th>
+							
+								<th scope="col">5월</th>
+							
+								<th scope="col">6월</th>
+							
+								<th scope="col">7월</th>
+							
+								<th scope="col">8월</th>
+							
+								<th scope="col">9월</th>
+							
+								<th scope="col">10월</th>
+							
+								<th scope="col">11월</th>
+							
+								<th scope="col">12월</th>
+							
+							<th class="last" scope="col">연평균</th>
+						</tr>
+	
+						
+						<tr>
+							<td class="first cell_tit1">2011</td>
+							<td>9,829</td>
+							<td>9,082</td>
+							<td>8,818</td>
+							<td>9,181</td>
+							<td>8,670</td>
+							<td>8,276</td>
+							<td>8,438</td>
+							<td>8,791</td>
+							<td>9,900</td>
+							<td>9,430</td>
+							<td>9,173</td>
+							<td>9,286</td>
+							<td class="last">9,068</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2012</td>
+							<td>10,170</td>
+							<td>9,390</td>
+							<td>9,238</td>
+							<td>9,200</td>
+							<td>8,467</td>
+							<td>8,260</td>
+							<td>8,082</td>
+							<td>8,455</td>
+							<td>9,690</td>
+							<td>8,543</td>
+							<td>8,136</td>
+							<td>8,168</td>
+							<td class="last">8,806</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2013</td>
+							<td>8,823</td>
+							<td>9,884</td>
+							<td>8,430</td>
+							<td>7,945</td>
+							<td>7,305</td>
+							<td>6,916</td>
+							<td>6,791</td>
+							<td>7,171</td>
+							<td>9,322</td>
+							<td>8,219</td>
+							<td>8,410</td>
+							<td>8,505</td>
+							<td class="last">8,115</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2014</td>
+							<td>9,450</td>
+							<td>9,350</td>
+							<td>8,448</td>
+							<td>8,136</td>
+							<td>8,421</td>
+							<td>8,295</td>
+							<td>7,904</td>
+							<td>7,716</td>
+							<td>8,222</td>
+							<td>7,229</td>
+							<td>6,930</td>
+							<td>7,429</td>
+							<td class="last">8,119</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2015</td>
+							<td>7,876</td>
+							<td>9,712</td>
+							<td>8,686</td>
+							<td>8,482</td>
+							<td>8,467</td>
+							<td>8,436</td>
+							<td>7,835</td>
+							<td>7,365</td>
+							<td>8,290</td>
+							<td>8,152</td>
+							<td>8,314</td>
+							<td>8,362</td>
+							<td class="last">8,310</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2016</td>
+							<td>8,160</td>
+							<td>9,578</td>
+							<td>8,873</td>
+							<td>8,370</td>
+							<td>8,090</td>
+							<td>7,543</td>
+							<td>7,438</td>
+							<td>7,473</td>
+							<td>9,274</td>
+							<td>9,490</td>
+							<td>8,764</td>
+							<td>8,286</td>
+							<td class="last">8,422</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2017</td>
+							<td>9,650</td>
+							<td>8,550</td>
+							<td>8,059</td>
+							<td>7,550</td>
+							<td>7,368</td>
+							<td>7,752</td>
+							<td>7,448</td>
+							<td>7,827</td>
+							<td>8,762</td>
+							<td>8,063</td>
+							<td>8,182</td>
+							<td>8,189</td>
+							<td class="last">8,116</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2018</td>
+							<td>7,827</td>
+							<td>8,894</td>
+							<td>8,262</td>
+							<td>7,210</td>
+							<td>7,620</td>
+							<td>7,288</td>
+							<td>7,258</td>
+							<td>7,521</td>
+							<td>8,282</td>
+							<td>7,300</td>
+							<td>7,268</td>
+							<td>8,168</td>
+							<td class="last">7,715</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2019</td>
+							<td>8,136</td>
+							<td>7,435</td>
+							<td>7,030</td>
+							<td>7,232</td>
+							<td>7,171</td>
+							<td>6,884</td>
+							<td>6,609</td>
+							<td>7,586</td>
+							<td>9,126</td>
+							<td>8,281</td>
+							<td>8,162</td>
+							<td>8,180</td>
+							<td class="last">7,643</td>
+						</tr>
+						
+						<tr>
+							<td class="first cell_tit1">2020</td>
+							<td>9,275</td>
+							<td>6,848</td>
+							<td>7,083</td>
+							<td>7,095</td>
+							<td>7,842</td>
+							<td>7,162</td>
+							<td>7,004</td>
+							<td>7,018</td>
+							<td>8,249</td>
+							<td>8,493</td>
+							<td>8,229</td>
+							<td>7,294</td>
+							<td class="last">7,616</td>
+						</tr>
+						
+					
+					
+				</tbody>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

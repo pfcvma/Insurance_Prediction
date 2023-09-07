@@ -1,7 +1,9 @@
 # Insurance_Prediction
 
 ##### <  보험산업 발전을 위한 2021 대학생 아이디어 공모전 - 한국보험신문사장상 수상작 : 딥러닝을 활용한 ‘농민의 웃음을 되찾다 : 풍년보험 상품제안’ >
-> 발표자료: [농민의 웃음을 되찾다 : 풍년보험 상품제안](https://docs.google.com/document/d/1Vej_XXlHe0ZLpw-u3q7Vu9HLRbizBZPe/edit?usp=sharing&ouid=105314543656143902157&rtpof=true&sd=true)
+> 분석 코드(Deep Learning): 본 Repository 참고
+>
+> 발표자료: [농민의 웃음을 되찾다 : 풍년보험 상품제안](https://drive.google.com/file/d/1y1-0T1Na9l9fSXNgPSgsRLgc5an6mids/view?usp=sharing)
 
 <br>
 

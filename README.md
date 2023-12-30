@@ -8,7 +8,7 @@
 <br>
 
 
-#### Deep Learning-Based Insurance Product Loss Ratio Prediction Simulation(Modern Portfolio Theory Implementation): 현대 포트폴리오 이론을 기반으로 다양한 자산 간 상관 관계를 고려한 보험 포트폴리오를 구성
+#### Deep Learning-Based Insurance Product Loss Ratio Prediction Simulation (Modern Portfolio Theory Implementation): 현대 포트폴리오 이론을 기반으로 다양한 자산 간 상관 관계를 고려한 보험 포트폴리오를 구성
 
 ##### 목적 : 손해율과 손해율의 변동성을 예측하고 두 값을 최소화하기 위함.
 

@@ -8,7 +8,9 @@
 <br>
 
 
-#### Deep Learning 기반 보험 시뮬레이션 : 손해율과 손해율의 변동성을 예측하고 두 값을 최소화하기 위함.
+#### Deep Learning-Based Insurance Product Loss Ratio Prediction Simulation(Modern Portfolio Theory Implementation): 현대 포트폴리오 이론을 기반으로 다양한 자산 간 상관 관계를 고려한 보험 포트폴리오를 구성
+
+##### 목적 : 손해율과 손해율의 변동성을 예측하고 두 값을 최소화하기 위함.
 
 ##### 1) 농산물의 가격 데이터 수집
 >농산물 유통정보 KAMIS에서 현행 농작물 포함 32종류 농산물에 대해 총 21년(2000~2020)간의 가격 데이터를 수집
